@@ -1,0 +1,21 @@
+,Suhu,Waktu,Kondisi Langit,Kelembapan,Terbang/Tidak
+0,Tinggi,Siang,Berawan,Rendah,Ya
+1,Rendah,Siang,Hujan,Tinggi,Ya
+2,Normal,Pagi,Hujan,Tinggi,Ya
+3,Tinggi,Siang,Hujan,Normal,Ya
+4,Rendah,Malam,Hujan,Rendah,Ya
+5,Normal,Sore,Cerah,Normal,Tidak
+6,Tinggi,Siang,Rintik,Rendah,Ya
+7,Rendah,Siang,Cerah,Rendah,Ya
+8,Normal,Siang,Cerah,Rendah,Ya
+9,Tinggi,Siang,Hujan,Rendah,Ya
+10,Tinggi,Sore,Cerah,Tinggi,Tidak
+11,Normal,Siang,Cerah,Tinggi,Ya
+12,Rendah,Pagi,Berawan,Normal,Ya
+13,Rendah,Malam,Rintik,Tinggi,Ya
+14,Normal,Siang,Hujan,Normal,Ya
+15,Tinggi,Malam,Cerah,Tinggi,Ya
+16,Rendah,Malam,Berawan,Rendah,Ya
+17,Rendah,Sore,Rintik,Normal,Tidak
+18,Tinggi,Siang,Cerah,Rendah,Ya
+19,Rendah,Malam,Rintik,Normal,Ya
